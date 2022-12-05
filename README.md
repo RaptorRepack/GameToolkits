@@ -16,7 +16,7 @@ Toolkit Changelog
 
 Release Date
 
-*This game repack toolkit coming in 10 January 2023 and this data are not final data.*
+*This game repack toolkit coming in 10 January 2023 and this date are not final date.*
 
 Important Notes
 
