@@ -11,7 +11,7 @@ Toolkit Information:
 - ToolKit Designer/Developer: Raptor Repack
 - ToolKit Copyright: © Raptor Repack 2023,Inc
 
-Toolkit Changelog
+Toolkit Changelog:
 - Waiting for stable release.
 
 Release Date:
