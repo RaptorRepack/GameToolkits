@@ -11,7 +11,7 @@ Toolkit information:
 - ToolKit Copyright: © Raptor Repack 2023,Inc
 
 Toolkit changelog:
-- Waiting for stable release.
+- Coming soon
 
 Release date:
 
@@ -19,9 +19,8 @@ Release date:
 
 Important notes:
 
-*Crysis remastered trilogy game repack toolkit under 2end beta testing started 8:53pm GMT time 20 december 2022.*
-
-*Stable release coming in 10 january 2023.*
+- Crysis remastered trilogy game repack toolkit under 2end beta testing started 8:53pm GMT time 20 december 2022.
+- Stable release coming in 10 january 2023
 
 -----------------------------------------------
 Follow Me: https://www.twitter.com/raptorrepack
