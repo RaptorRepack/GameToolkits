@@ -11,14 +11,14 @@ Toolkit Information:
 - ToolKit Designer/Developer: Raptor Repack
 - ToolKit Copyright: © Raptor Repack 2023,Inc
 
-Toolkit Changelog:
+Toolkit changelog:
 - Waiting for stable release.
 
-Release Date:
+Release date:
 
 *This game repack toolkit coming in 10 January 2023.*
 
-Important Notes:
+Important notes:
 
 *Crysis remastered trilogy game repack toolkit under 2end beta testing started 8:53pm GMT time 20 december 2022.*
 
