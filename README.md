@@ -1,7 +1,8 @@
-Crysis Remastered Trilogy Game Repack ToolKit
------------------------------------------------
-*This repack toolkit fully open source software and this toolkit all data available for my GitHub page only.*
+This repack toolkit using only offline game repacking or installer create purpose.
 
+This repack toolkit fully open source software and this toolkit all data available for my GitHub page only.
+
+Information status
 -----------------------------------------------
 Toolkit information:
 - Toolkit Name: Crysis Remastered Trilogy Repack ToolKit
@@ -10,7 +11,7 @@ Toolkit information:
 - ToolKit Designer/Developer: Raptor Repack
 - ToolKit Copyright: © Raptor Repack 2023,Inc
 
-Toolkit changelog:
+Changelog:
 - Coming soon
 
 Release date:
