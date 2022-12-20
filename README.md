@@ -7,7 +7,7 @@ Crysis Remastered Trilogy Game Repack ToolKit
 Toolkit Information:
 - Toolkit Name: Crysis Remastered Trilogy Repack ToolKit
 - ToolKit Versions: v1.0.20.23
-- Toolkit File Space: Coming Soon
+- Toolkit File Space: <...>
 - ToolKit Designer/Developer: Raptor Repack
 - ToolKit Copyright: © Raptor Repack 2023,Inc
 
@@ -20,7 +20,7 @@ Release Date:
 
 Important Notes:
 
-*Crysis remastered trilogy game repack toolkit under beta testing started 4:00pm GMT time 12 december 2022.*
+*Crysis remastered trilogy game repack toolkit under 2end beta testing started 8:53pm GMT time 20 december 2022.*
 
 *Stable release coming in 10 january 2023.*
 
