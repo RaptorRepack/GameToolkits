@@ -23,6 +23,5 @@ Important notes:
 - Crysis remastered trilogy game repack toolkit under 2end beta testing started 8:53pm GMT time 20 december 2022.
 - Stable release coming in 10 january 2023
 
------------------------------------------------
-Follow Me: https://www.twitter.com/raptorrepack
------------------------------------------------
+Follow my twitter page:
+- http://shorturl.at/dfDEQ
