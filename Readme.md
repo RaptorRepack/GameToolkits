@@ -7,12 +7,13 @@ Information status
 Toolkit information:
 - Toolkit Name: Crysis Remastered Trilogy Repack ToolKit
 - ToolKit Versions: v1.0.20.23
-- Toolkit File Space: <...>
-- ToolKit Designer/Developer: Raptor Repack
+- Toolkit File Space: Very soon 🔜
+- ToolKit Designer: Raptor Repack
+- Toolkit Developer: Raptor Repack
 - ToolKit Copyright: © Raptor Repack 2023,Inc
 
 Changelog:
-- Coming soon
+- Very soon 🔜
 
 Release date:
 
@@ -30,7 +31,7 @@ Toolkit list or versions:
 Upcoming game toolkit list
 -----------------------------------------------
 Toolkit list:
-- God of war
+- God of war 🔜
 
 Social media
 -----------------------------------------------
