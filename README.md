@@ -16,12 +16,23 @@ Changelog:
 
 Release date:
 
-*This game repack toolkit coming in 10 January 2023.*
+- This game repack toolkit coming in 10 January 2023.
 
 Important notes:
 
 - Crysis remastered trilogy game repack toolkit under 2end beta testing started 8:53pm GMT time 20 december 2022.
-- Stable release coming in 10 january 2023
 
-Follow my twitter page:
+Game toolkit list
+-----------------------------------------------
+Toolkit list or versions:
+- Crysis Remastered Trilogy v1.0.20.23
+
+Upcoming game toolkit list
+-----------------------------------------------
+Toolkit list:
+- God of war
+
+Social media
+-----------------------------------------------
+Twitter page:
 - http://shorturl.at/dfDEQ
