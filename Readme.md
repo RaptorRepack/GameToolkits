@@ -20,7 +20,7 @@ Release date:
 
 Important notes:
 
-- Crysis remastered trilogy game repack toolkit under 2end beta testing started 8:53pm (GMT-6:00) time 20 december 2022.
+- Crysis remastered trilogy game repack toolkit under 2end beta testing started 5:30pm (GMT-6:00) time 22 december 2022.
 
 Game toolkit list
 -----------------------------------------------
