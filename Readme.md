@@ -35,7 +35,11 @@ Toolkit list or versions:
 Upcoming game toolkit list
 -----------------------------------------------
 Toolkit list:
-- God of war coming soon 🔜
+- God of war
+- Cyberpunk 2077
+- The Witcher 3 Complete Edition
+- Marvel's Spider-Man Miles Morales
+- Assassin's Creed Valhalla Ultimate Edition
 
 Social media
 -----------------------------------------------
