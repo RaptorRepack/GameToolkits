@@ -5,7 +5,7 @@ This repack toolkit fully open source software and this toolkit all data availab
 Information status
 -----------------------------------------------
 Toolkit information:
-- Toolkit Name: Crysis Remastered Trilogy Repack ToolKit
+- Toolkit Name: Crysis Remastered Trilogy Game Repack ToolKit
 - ToolKit Versions: v1.0.20.23
 - Toolkit File Space: Very soon 🔜
 - ToolKit Designer: Raptor Repack
@@ -13,15 +13,19 @@ Toolkit information:
 - ToolKit Copyright: © Raptor Repack 2023,Inc
 
 Changelog:
-- Very soon 🔜
+- Added: New game data compressor v1.1.0.0
+- Fixed: Compressor CI (CMD Interface) in Windows 11 22H2 issues
+- Fixed: Compressor CI (CMD Interface) all dialogs issues
+- Fixed: Repack script stability or system performance
+- Fixed: Repack toolkit optimizations performance
+- Included: Inno setup v5.5.4 unicode versions
 
-Release date:
-
-- This game repack toolkit coming in 10 January 2023.
+Release status:
+- Only project files and changelog released.
 
 Important notes:
 
-- Crysis remastered trilogy game repack toolkit under 2end beta testing started 5:30pm (GMT-6:00) time 22 december 2022.
+- Crysis remastered trilogy game repack toolkit under beta testing has been closed.
 
 Game toolkit list
 -----------------------------------------------
@@ -31,7 +35,7 @@ Toolkit list or versions:
 Upcoming game toolkit list
 -----------------------------------------------
 Toolkit list:
-- God of war 🔜
+- God of war coming soon 🔜
 
 Social media
 -----------------------------------------------
