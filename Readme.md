@@ -26,6 +26,7 @@ Release status:
 Important notes:
 
 - Crysis remastered trilogy game repack toolkit under beta testing has been closed.
+- If you my (CrysisRemasteredTrilogy) project files downloaded, so please renamed to "Toolkit" that's it.
 
 Game toolkit list
 -----------------------------------------------
