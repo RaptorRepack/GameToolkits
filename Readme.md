@@ -13,9 +13,9 @@ Information status
 
 Changelog
 -----------------------------------------------
-- Added: Game data compressor v1.1.0.0 - stable versions
-- Fixed: Compressor CI (CMD Interface) in Windows 11 22H2 issues
-- Fixed: Compressor CI (CMD Interface) all dialogs issues
+- Added: Game data compressor v1.1.0.0
+- Fixed: Compressor Ci (CMD Interface) in Windows 11 22H2 issues
+- Fixed: Compressor Ci (CMD Interface) all dialogs issues
 - Fixed: Repack script stability or system performance
 - Fixed: Repack toolkit optimizations performance
 - Included: Inno setup v5.5.4 unicode versions
@@ -26,7 +26,7 @@ Release status
 
 Important notes
 -----------------------------------------------
-- Crysis remastered trilogy game repack toolkit under beta testing has been closed.
+- Stable versions coming in 10 January 2023.
 - If you my (CrysisRemasteredTrilogy) project files downloaded, so please renamed to "Toolkit" that's it.
 
 Game repack toolkit list
