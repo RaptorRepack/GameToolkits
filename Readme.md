@@ -37,7 +37,7 @@ Older versions
 -----------------------------------------------
 - Not available
 
-Upcoming game repack toolkit list
+Upcoming versions
 -----------------------------------------------
 - God of war
 - Cyberpunk 2077
