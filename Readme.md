@@ -29,11 +29,11 @@ Important notes
 - Crysis remastered trilogy game repack toolkit under beta testing has been closed.
 - If you my (CrysisRemasteredTrilogy) project files downloaded, so please renamed to "Toolkit" that's it.
 
-Game toolkit list
+Game repack toolkit list
 -----------------------------------------------
 - Crysis Remastered Trilogy
 
-Upcoming game toolkit list
+Upcoming game repack toolkit list
 -----------------------------------------------
 - God of war
 - Cyberpunk 2077
