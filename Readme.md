@@ -35,7 +35,7 @@ Game repack toolkit list
 
 Game repack toolkit older list
 -----------------------------------------------
-- not available
+- Not available
 
 Upcoming game repack toolkit list
 -----------------------------------------------
