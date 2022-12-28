@@ -22,7 +22,7 @@ Changelog
 
 Release status
 -----------------------------------------------
-- Only project files and changelog released.
+- Not released only release project files.
 
 Important notes
 -----------------------------------------------
@@ -31,7 +31,7 @@ Important notes
 
 Latest versions
 -----------------------------------------------
-- Crysis Remastered Trilogy
+- Crysis Remastered Trilogy "Not released only release project files"
 
 Older versions
 -----------------------------------------------
