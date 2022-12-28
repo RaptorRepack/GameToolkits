@@ -13,7 +13,7 @@ Information status
 
 Changelog
 -----------------------------------------------
-- Added: New game data compressor v1.1.0.0
+- Added: Game data compressor v1.1.0.0 - stable versions
 - Fixed: Compressor CI (CMD Interface) in Windows 11 22H2 issues
 - Fixed: Compressor CI (CMD Interface) all dialogs issues
 - Fixed: Repack script stability or system performance
