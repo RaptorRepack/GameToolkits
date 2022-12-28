@@ -29,11 +29,11 @@ Important notes
 - Stable versions coming in 10 January 2023.
 - If you my (CrysisRemasteredTrilogy) project files downloaded, so please renamed to "Toolkit" that's it.
 
-Game repack toolkit list
+Latest versions
 -----------------------------------------------
 - Crysis Remastered Trilogy
 
-Game repack toolkit older list
+Older versions
 -----------------------------------------------
 - Not available
 
