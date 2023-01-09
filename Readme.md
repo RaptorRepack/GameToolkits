@@ -6,7 +6,7 @@ Information status
 -----------------------------------------------
 - Toolkit Name: Crysis Remastered Trilogy Game Repack ToolKit
 - ToolKit Versions: v1.0.20.23
-- Toolkit File Space: Very soon
+- Toolkit File Space: Today coming
 - ToolKit Designer: Raptor Repack
 - Toolkit Developer: Raptor Repack
 - ToolKit Copyright: © Raptor Repack 2023,Inc
@@ -26,8 +26,8 @@ Release status
 
 Important notes
 -----------------------------------------------
-- Stable versions coming in 10 January 2023.
-- If you my (CrysisRemasteredTrilogy) project files downloaded, so please renamed to "Toolkit" that's it.
+- Today release in this Crysis Remastered Trilogy game repack toolkit.
+- If you my project files downloaded, please project file name renamed to "Toolkit" because compressor working for "Toolkit" file name and install now compressor and then use to compressor.
 
 Latest versions
 -----------------------------------------------
